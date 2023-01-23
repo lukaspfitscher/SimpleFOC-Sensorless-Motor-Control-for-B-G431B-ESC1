@@ -1,3 +1,6 @@
+//will only work with the SimpleFOC dev branch
+//only for gimbal mmotors
+
 #include <SimpleFOC.h>
 
 //phase pins
